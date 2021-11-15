@@ -18,7 +18,7 @@ entry_points={
 Install this package using pip and then use MLflow as normal.
 
 ```bash
-pip install -e cloudflare-request-header-plugin
+pip install cloudflare-request-header-plugin
 ```
 
 The plugin expects Cloudflare Access credentials to be set in the `CF_ACCESS_TOKEN` environment variable on the client application.
